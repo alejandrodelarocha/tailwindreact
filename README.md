@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ReactViteTailwind.com
+# ⚡ ReactTailwind.com
 
 **One script. Zero config. Start building in seconds.**
 
